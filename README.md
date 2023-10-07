@@ -1,2 +1,2 @@
-# Find-Similar-Game-of-Thrones-Character-using-Machine-Learning
+# game-of-thrones-personality-matcher
 A t-sne implementation on GOT dataset
